@@ -36,4 +36,4 @@ The app interface allows you to select a target color, and it will then identify
 ![img2](screenShots/img2.jpg)
 ![img3](screenShots/img3.jpg)
 ![img4](screenShots/img4.jpg)
-![img5](screenShots/img5.jpg)
+![img5](screenShots/img5.png)
